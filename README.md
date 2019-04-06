@@ -1,0 +1,2 @@
+# EmptyFileGenerator
+Empty file generator
